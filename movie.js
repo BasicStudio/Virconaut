@@ -24,4 +24,4 @@ add("https://duckduckgo.com/i/566cfadf.jpg", "The Sword In The Stone", "The Swor
 add("https://upload.wikimedia.org/wikipedia/en/thumb/4/46/PeterpanRKO.jpg/220px-PeterpanRKO.jpg", "Peter Pan", "Peter Pan is a 1953 American animated musical fantasy adventure-drama produced by Walt Disney Productions and was based on the play Peter Pan, or The Boy Who Wouldn't Grow Up by J. M. Barrie", "https://drive.google.com/u/0/uc?export=download&confirm=aORJ&id=1yluS00JRXyC1h8O8fHT92A5SrZbxPfBc")
 
 //Cats
-add("https://duckduckgo.com/i/566cfadf.jpg", "Cats (2019)", "A tribe of cats must decide yearly which one will ascend to the Heaviside Layer and come back to a new life", "https://drive.google.com/open?id=1UeaH6XRxTk6GDuAS4APpxL0Itnq63XWB")
+add("https://i.redd.it/tbgj4vqw0qz31.jpg", "Cats (2019)", "A tribe of cats must decide yearly which one will ascend to the Heaviside Layer and come back to a new life", "https://drive.google.com/open?id=1UeaH6XRxTk6GDuAS4APpxL0Itnq63XWB")
